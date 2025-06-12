@@ -1,15 +1,5 @@
 # 🚀 BABF - 认知状态评估模型
 
-<div align="center">
-![版本](https://img.shields.io/badge/版本-1.0.0-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
-![troch](https://img.shields.io/badge/torch-2.0+-orange)
-![许可证](https://img.shields.io/badge/许可证-MIT-brightgreen)
-![状态](https://img.shields.io/badge/状态-开发中-yellow)
-
-</div>
-
-
 ## 📖 项目简介
 
 BABF有效解决了通用文本分类模型在语义连续性和时序建模方面的局限，为认知状态的自动评估提供了新的技术方案。
@@ -33,6 +23,7 @@ BABF有效解决了通用文本分类模型在语义连续性和时序建模方�
 ### 环境要求
 
 - Python 3.8+
+- torch 2.0+
 - 相关依赖包
 
 ## 📂 项目结构
