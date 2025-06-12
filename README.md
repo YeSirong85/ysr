@@ -9,9 +9,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2621/2621230.png" alt="ERAG Logo" width="150">
-</div>
 
 ## 📖 项目简介
 
